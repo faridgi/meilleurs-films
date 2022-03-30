@@ -1,8 +1,4 @@
-/*
-  Formation complète JavaScript
-  Projet 2, cours développement Web
-  cours disponible en ligne sur le compte youtube => Espero-Soft Informatique
-*/
+
 var filmData = [
   {
     title : "Intouchables" ,
